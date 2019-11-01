@@ -1,0 +1,19 @@
+h1{
+    color: white;
+    background-color: skyblue;
+    text-align: center;
+}
+h2{
+    color: aqua;
+    background-color:azure;
+    text-align: center;
+}
+h3{
+    color: cornflowerblue
+}
+p{
+    color:darkgray;
+}
+body{
+  background-image:   url("../images/02.png")
+}
