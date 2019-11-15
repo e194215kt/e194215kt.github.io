@@ -9,5 +9,8 @@ p{
     font-weight: bold;  
 }
 body{
-    background-image: url(../images/1.jfif) 
+    background-image: url(../images/1.jfif) ;
+    background-repeat: no-repeat;  
+    background-attachment: fixed;
+    background-position: center;
 }
