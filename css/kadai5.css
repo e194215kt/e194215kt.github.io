@@ -5,7 +5,10 @@ div.title{
     font-family: "Impact";
     margin-bottom: 20px;
 }
-
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
 div.Frame{
     height: 320px;
     width:1000px;
